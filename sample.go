@@ -1,7 +1,7 @@
 package main
 
 import (
-	"TestProject/func/command"
+	"github.com/AkiraUdagawa/golang-common-func/func/command"
 )
 
 func main() {
