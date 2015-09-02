@@ -1,0 +1,1 @@
+# golang-common-func
